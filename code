@@ -1,0 +1,33 @@
+{
+  "username": "ANNOUNCEMENT BOT",
+  "embeds": [
+    {
+      "author": {
+        "name": "Announcement #1", 
+        "url": "https://discord.gg/PPy23WA",      "icon_url":"https://cdn.discordapp.com/attachments/660126782514790421/660565790051008522/krann1.png"
+      },
+   "color": "16777215",
+      "fields": [
+        {
+          "name": "Our new Database",
+          "value": "You can find this and view our employees, products and much more!",
+          "inline": false
+        },
+        {
+          "name": "",
+          "value" : "",
+         "inline": false
+        }
+      ],
+      "thumbnail": {
+        "url": ""
+      },
+      "image": { "url":"https://cdn.discordapp.com/attachments/660126782514790421/660577748447658026/RobloxScreenShot20191025_164607829.png"
+      },
+      "footer": {
+        "text": "Sent by S.Arrow",
+        "icon_url": "https://cdn.discordapp.com/attachments/660126782514790421/660578354994479106/RobloxScreenShot20191108_213758999.png"
+      }
+    }
+  ]
+}
